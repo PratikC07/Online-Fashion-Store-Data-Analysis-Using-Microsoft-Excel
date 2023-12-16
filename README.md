@@ -60,7 +60,7 @@ In conclusion, the analysis provides valuable insights into customer behavior an
 
 Refer to the "visualizations" folder for graphical representations of the analysis.
 
-![Sample Visualization](https://github.com/PratikC07/Online-Fashion-Store-Data-Analysis-Using-Microsoft-Excel/blob/main/Visualizations/Visualisation_Vrinda_Store_Report.png)
+![Sample Visualization](Visualizations/Visualisation_Vrinda_Store_Report.png)
 
 Feel free to explore the code to gain a deeper understanding of the analysis process and outcomes.
 
